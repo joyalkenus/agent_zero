@@ -1,5 +1,5 @@
 # Agent Zero
-
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hkNm1nanAzaTFsd2RoOW1tNHd1N2k2Yjh4aWN5NWF0OHJzczI2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif)
 Agent Zero is a project that i made for myself so as to improve the overall quality of the agentic system. This project demonstrates the use of multiple AI agents working together in a group chat environment. It utilizes OpenAI's GPT 4o model and Anthropic's Claude 3.5 sonnet model to create a collaborative AI system.
 
 ## Features
