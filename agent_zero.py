@@ -57,8 +57,7 @@ claude_llm_config = {
         }
     ],
     "temperature": 0.7,
-    "cache_seed": "44",
-    "max_tokens": 4096
+    "cache_seed": "44"
 }
 
 # Create agents
@@ -74,7 +73,7 @@ assistant_anthropic = AssistantAgent(
 )
 code_writer_agent = AssistantAgent(
     name="code_writer_agent",
-    llm_config=claude_llm_config,
+    llm_config=openai_llm_config,
     system_message="You are a code writing assistant. Help users write, debug, and improve their code.",
 )
 
